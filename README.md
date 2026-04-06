@@ -41,7 +41,7 @@ Test classes are never seen during training.
 
 ![Training curves](flowers_training_curves.png)
 ![Support set](support_set.png)
-![Query predictions](query_predictions.png)
+![Query predictions](flowers_query_predictions.png)
 
 ## Notes
 
